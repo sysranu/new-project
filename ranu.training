@@ -1,7 +1,7 @@
 class ranu{
 public static void main (string[]args){
-system.out.println("this is 1st training of devops")
-
+system.out.println("this is 1st training of devops");
+system.out.println("second line added now to the program");
 }
 }
 
