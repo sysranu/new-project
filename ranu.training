@@ -1,0 +1,7 @@
+class ranu{
+public static void main (string[]args){
+system.out.println("this is 1st training of devops")
+
+}
+}
+
